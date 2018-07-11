@@ -1,2 +1,2 @@
- git is a version control system
- git is free software
+file name is readme
+readme is a unicode without bom file
