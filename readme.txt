@@ -1,2 +1,2 @@
 file name is readme
-readme is a unicode without bom file
+readme is a unicode without bom fid
